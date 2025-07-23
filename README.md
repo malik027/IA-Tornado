@@ -1,8 +1,8 @@
 # IA-Tornado
 
 ## Overview :
-IA: Tornado adalah sebuah mesin CTF dari VulnHub dengan tingkat kesulitan medium, yang dirancang buat nguji kemampuan dalam melakukan web enumeration, file analysis, dan privilege escalation.
-Mesin ini cocok buat lu yang udah paham dasar-dasar pentesting dan pengen naik level ke teknik yang lebih advanced.
+IA: Tornado is a medium-difficulty CTF engine from VulnHub designed to test your skills in web enumeration, file analysis, and privilege escalation.
+This engine is suitable for those who already understand the basics of pentesting and want to advance to more advanced techniques.
 
 ## Objective :
 - Perform scanning and enumeration to identify active services and entry points.
